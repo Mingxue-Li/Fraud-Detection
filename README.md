@@ -1,0 +1,2 @@
+# Fraud-Detection
+These are the codes for a fraud detection on NYC Property Data. In this project, we firstly built data quality report on NYC Property data with over 1M observations and 32 fields, filled missing values and created 45 new variables for further analysis. Secondly, we utilized z-scaling and PCA approach to build the first fraud score. For the second fraud score, we executed Autoencoder on the variables. And then implemented quantile binning to rank orders of all fraud scores.
